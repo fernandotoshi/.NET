@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Toshi\\git\\.NET\\Task.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B008F1EE-7D3C-401E-8957-10328B285E3D}|Task.API\\Task.API.csproj|c:\\users\\toshi\\git\\.net\\task.api\\task.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B008F1EE-7D3C-401E-8957-10328B285E3D}|Task.API\\Task.API.csproj|solutionrelative:task.api\\controllers\\taskscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008F1EE-7D3C-401E-8957-10328B285E3D}|Task.API\\Task.API.csproj|c:\\users\\toshi\\git\\.net\\task.api\\task.api\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B008F1EE-7D3C-401E-8957-10328B285E3D}|Task.API\\Task.API.csproj|solutionrelative:task.api\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B008F1EE-7D3C-401E-8957-10328B285E3D}|Task.API\\Task.API.csproj|c:\\users\\toshi\\git\\.net\\task.api\\task.api\\task.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{B008F1EE-7D3C-401E-8957-10328B285E3D}|Task.API\\Task.API.csproj|solutionrelative:task.api\\task.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TasksController.cs",
+              "DocumentMoniker": "C:\\Users\\Toshi\\git\\.NET\\Task.API\\Task.API\\Controllers\\TasksController.cs",
+              "RelativeDocumentMoniker": "Task.API\\Controllers\\TasksController.cs",
+              "ToolTip": "C:\\Users\\Toshi\\git\\.NET\\Task.API\\Task.API\\Controllers\\TasksController.cs",
+              "RelativeToolTip": "Task.API\\Controllers\\TasksController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAywEQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:02:16.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Toshi\\git\\.NET\\Task.API\\Task.API\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "Task.API\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Toshi\\git\\.NET\\Task.API\\Task.API\\Models\\TodoItem.cs",
+              "RelativeToolTip": "Task.API\\Models\\TodoItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T13:00:50.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Task.API.http",
+              "DocumentMoniker": "C:\\Users\\Toshi\\git\\.NET\\Task.API\\Task.API\\Task.API.http",
+              "RelativeDocumentMoniker": "Task.API\\Task.API.http",
+              "ToolTip": "C:\\Users\\Toshi\\git\\.NET\\Task.API\\Task.API\\Task.API.http",
+              "RelativeToolTip": "Task.API\\Task.API.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-11-08T12:57:20.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
